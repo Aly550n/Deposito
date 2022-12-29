@@ -42,7 +42,7 @@ public class estoque {
         System.out.println();
         System.out.println("UpDated data: "+ product);
 
-
+        System.out.println("teste git");
         ent.close();
     }
 }
